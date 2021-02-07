@@ -22,7 +22,8 @@ plugin://plugin.video.youtube/play/?video_id=0ERetvonggY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdnRXCT.jpg" group-title="",Verglas 1998 - La tempête du siècle (YT)
 plugin://plugin.video.youtube/play/?video_id=jPJTkCZm7YA
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq3u3ca.png" group-title="",Le peuple de l'herbe: la cannabusiness au Québec
+https://edge-api.vice.com/v1/transcoder/manifests/archive/5851a18cdb2fcbea06569d6c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HxQV2Ta.jpg" group-title="",Québec - Echappées belles (YT)
 plugin://plugin.video.youtube/play/?video_id=2juYlrx2diU
