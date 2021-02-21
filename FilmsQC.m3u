@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Docu Quebec[/COLOR]★★★★★★★★★★
 0.0.0.0
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a1QadpM.jpg" group-title="",Les Nordiques, notre équipe - Docu (YT)
@@ -16,8 +16,6 @@ plugin://plugin.video.youtube/play/?video_id=gsP0SjB4tYY
 plugin://plugin.video.youtube/play/?video_id=zBUxUdnLoKs
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kWnf0it.jpg" group-title="",HISTOIRE DU QUÉBEC 2 (1534-1864) Docu (YT)
 plugin://plugin.video.youtube/play/?video_id=0ERetvonggY
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdnRXCT.jpg" group-title="",Verglas 1998 - La tempête du siècle (YT)
 plugin://plugin.video.youtube/play/?video_id=jPJTkCZm7YA
@@ -52,8 +50,6 @@ plugin://plugin.video.youtube/play/?video_id=miq2RiCNKjk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yju302P.jpg" group-title="",Chez nous, c'est chez nous (YT)
 plugin://plugin.video.youtube/play/?video_id=BN1fWJlHq0Y
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xCT7wSO.jpg" group-title="",Québec : à la croisée des chemins (YT)
 plugin://plugin.video.youtube/play/?video_id=wQdqrsp7o_w
 
@@ -63,14 +59,56 @@ plugin://plugin.video.youtube/play/?video_id=XUTf5ARYKeI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YxA8In7.jpg" group-title="",Documentaire L'histoire du nationalisme au Québec (YT)
 plugin://plugin.video.youtube/play/?video_id=UcK7TLq_fFI
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qX6r695.jpg" group-title="",Céline Dion dans l'intimité Docu (YT)
 plugin://plugin.video.youtube/play/?video_id=fkBfWrEjsU4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LeCub2n.jpg" group-title="",Musique Traditionnelle Québécoise vol.1 (YT)
 plugin://plugin.video.youtube/play/?video_id=OLE5vRQC2LE
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Concert Quebec[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y4bRQxw.jpg" group-title="",METALLICA - Quebec Magnetic (Live Concert) 2009 (YT)
+plugin://plugin.video.youtube/play/?video_id=kFDYKWkwI34
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QN4lOCP.jpg" group-title="",L'amour à l'opéra ou les mots | maux d'amour (YT)
+plugin://plugin.video.youtube/play/?video_id=GrG5v4MtqyA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Humour Quebec[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0095f5K.jpg" group-title="",Guillaume Wagner - Trop Humain (YT)
+plugin://plugin.video.youtube/play/?video_id=E-QIQC6j4gI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kvs4BZ7.jpg" group-title="",Maxime Martin Enfin (YT)
+plugin://plugin.video.youtube/play/?video_id=VSZ5y2kthRQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qL9rZt3.jpg" group-title="",Simon Leblanc Malade (YT)
+plugin://plugin.video.youtube/play/?video_id=Ck2NkwOg3Os
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bybnMid.jpg" group-title="",Simon Leblanc Tout Court (YT)
+plugin://plugin.video.youtube/play/?video_id=08QXKnz_rIw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJVPjPy.jpg" group-title="",Pierre Hébert : Premier spectacle  (YT)
+plugin://plugin.video.youtube/play/?video_id=BKOdUZHk0NY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ES1TyUf.jpg" group-title="",Philippe Bond 1 (YT)
+plugin://plugin.video.youtube/play/?video_id=UWcCIfdx5Fg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9USQsE9.jpg" group-title="",Philippe Bond 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=PqYpM8XJTOc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T5OEehR.jpg" group-title="",Dave Gaudet - One Man Show (Pas du monde: Partie 1) (YT)
+plugin://plugin.video.youtube/play/?video_id=nihZ69R04k8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ychzvB.jpg" group-title="",Yvon Deschamps au Manoir Rouville Campbell (1999) (YT)
+plugin://plugin.video.youtube/play/?video_id=QTOC4dt194I
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXLhi7y.jpg" group-title="",Yvon Deschamps au Corona Comment ça, 2000? (2002) (YT)
+plugin://plugin.video.youtube/play/?video_id=TZ05TAksMl4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gX0ToIO.jpg" group-title="",Union Libre - François Bellefeuille (YT)
+plugin://plugin.video.youtube/play/?video_id=kr8gjuFjbw0
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Films Quebec[/COLOR]★★★★★★★★★★
@@ -242,6 +280,9 @@ plugin://plugin.video.youtube/play/?video_id=yKktxyfMwck
 
 #EXTINF:-1 tvg-logo="https://www.filmsquebec.com/wp-content/uploads/2013/01/jen-suis_fournier.jpg" group-title="Quebec Film",jen suis (YT)
 plugin://plugin.video.youtube/play/?video_id=7qwm0pAQ4xw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/utfHK9O.jpg" group-title="",Jaloux (YT)
+plugin://plugin.video.youtube/play/?video_id=uGawO-MhY14
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jP0jRB1.jpg" group-title="",Jésus de Montréal (YT)
 plugin://plugin.video.youtube/play/?video_id=hiBBl4bNINM
@@ -493,6 +534,9 @@ https://m10.uqload.com/3rfk3s5zhrw2q4drdi67hif2d5othevfsp6o3fco6yowcbrbyyr5sbrtw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NV6x8xU.jpg" group-title="",Starbuck
 https://load.hdfilme.ws/playlist/955da935890405103a0c7491cd78c96d/955da935890405103a0c7491cd78c96d.m3u8|Referer=https://fcine.tv/starbuck-10979-streaming/vf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WSPalTY.jpg" group-title="",Station Nord (2002) (YT)
+plugin://plugin.video.youtube/play/?video_id=pF-L4beaxKc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JbElsee.jpg" group-title="",Sur la trace d'Igor Rizzi (YT)
 plugin://plugin.video.youtube/play/?video_id=RQ9SJNixljA
