@@ -65,6 +65,9 @@ plugin://plugin.video.youtube/play/?video_id=fkBfWrEjsU4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LeCub2n.jpg" group-title="",Musique Traditionnelle Québécoise vol.1 (YT)
 plugin://plugin.video.youtube/play/?video_id=OLE5vRQC2LE
 
+
+#############
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Concert Quebec[/COLOR]★★★★★★★★★★
 0.0.0.0
 
@@ -74,8 +77,36 @@ plugin://plugin.video.youtube/play/?video_id=kFDYKWkwI34
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QN4lOCP.jpg" group-title="",L'amour à l'opéra ou les mots | maux d'amour (YT)
 plugin://plugin.video.youtube/play/?video_id=GrG5v4MtqyA
 
+
+################
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpe8DfM.png",★★★★★★★★★★[COLOR red]Humour Quebec[/COLOR]★★★★★★★★★★
 0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EHwx8H3.jpg" group-title="",MARTIN PETIT "ET LE MICRO DE FEU" (YT)
+plugin://plugin.video.youtube/play/?video_id=5-LzFJY8DJU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kyzcWYA.jpg" group-title="",GALA HOMMAGE A "MICHEL BARRETTE" (YT)
+plugin://plugin.video.youtube/play/?video_id=8bTswzTcNAk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R63MUl3.jpg" group-title="",Les Classiques de l'humour (1999) (YT)
+plugin://plugin.video.youtube/play/?video_id=LzVX5A-roRo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFjiprM.jpg" group-title="",MARIO JEAN "GARS AU GROS NOUNOURS" (YT)
+plugin://plugin.video.youtube/play/?video_id=fKCGZZqHB4k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZpU9yFB.jpg" group-title="",Jean-Thomas Jobin- Apprendre à s'aimer  (YT)
+plugin://plugin.video.youtube/play/?video_id=8Fccb5IS3NQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPaZx6L.jpg" group-title="",Fred Dubé - Anarcho-Taquin (YT)
+plugin://plugin.video.youtube/play/?video_id=D84KB4ESmWE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mppSJxo.jpg" group-title="",Jean francois mercier Subtil sensible et touchant  (YT)
+plugin://plugin.video.youtube/play/?video_id=i7dg-IxAoHk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GsVhdS1.jpg" group-title="",Patrick Huard Face à Face (YT)
+plugin://plugin.video.youtube/play/?video_id=wfrwp8NeAzQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0095f5K.jpg" group-title="",Guillaume Wagner - Trop Humain (YT)
 plugin://plugin.video.youtube/play/?video_id=E-QIQC6j4gI
