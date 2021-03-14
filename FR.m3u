@@ -1,0 +1,297 @@
+#EXTM3U url-tvg="" refresh="3600"
+
+
+##EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift=""
+# https://epg.best/available-channels http://webgrabplus.com/epg-channels#co https://xmltv.ch/ https://xmltv.ch/xmltv/xmltv-tnt.xml http://xmltv.bigsb.fr/
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg" group-title="*",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ogwe4iM.jpg" group-title="*",Addik TV
+http://185.93.1.39/FRCH_addikTV_HD_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cbUaNSv.png" group-title="*",Canal D
+http://185.93.1.39/FRCH_CANAL_D_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IIQLdik.png" group-title="*",Canal Vie
+http://185.93.1.39/FRCH_VIE_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Scr6Tl.png" group-title="*",CASA
+http://185.93.1.39/FRCH_CASA_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHw4Of.png" group-title="*",Cinepop
+http://185.93.1.39/FRCH_Cinepop_HD_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qbjJeY0.jpg" group-title="*",Frissons TV
+http://185.93.1.39/FRCH_Frissons_TV_HD_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VegDBAO.png" group-title="*",Historia
+http://185.93.1.39/FRCH_Historia_HD_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xQR0zd7.png" group-title="*",ICI RDI
+http://185.93.1.39/FRCH_RDI_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nbvSBw.jpg" group-title="*",Investigation
+http://185.93.1.39/FRCH_INVESTIGATION_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="*",LCN
+http://185.93.1.39/FRCH_LCN_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kElaShj.jpg" group-title="*",Noovo
+http://185.93.1.39/FRCH_V_MONTREAL_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nB16Tfr.png" group-title="*",Prise 2
+http://185.93.1.39/FRCH_Prise2_HD_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sAVSsZA.png" group-title="*",RDS
+http://185.93.1.39/FRCH_RDS_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XA8meS2.jpg" group-title="*",RDS 2
+http://185.93.1.39/FRCH_RDS_2_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/npxLxt7.png" group-title="*",RDS Info
+http://185.93.1.39/FRCH_RDS_INFO_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DkjmRDm.jpg" group-title="*",Savoir media
+http://185.93.1.39/FRCH_CANAL_SAVOIR_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AUp0oKM.jpg" group-title="*",Serie+
+http://185.93.1.39/FRCH_SERIES_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IwCi6ls.png" group-title="*",Super Écran 1
+http://185.93.1.39/FRCH_SUPER_ECRAN_1_CA/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IwCi6ls.png" group-title="*",Super Écran 2
+http://185.93.1.39/FRCH_SUPER_ECRAN_2_CA/index.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IwCi6ls.png" group-title="*",Super Écran 3
+http://185.93.1.39/FRCH_SUPER_ECRAN_3_CA/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IwCi6ls.png" group-title="*",Super Écran 4
+http://185.93.1.39/FRCH_SUPER_ECRAN_4_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yll41d4.jpg" group-title="*",Telemagino
+http://185.93.1.39/FRCH_Telemagino_HD_CA/index.m3u8
+`
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="*",Tele-Quebec
+http://185.93.1.39/FRCH_TELE_QUEBEC_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WJPpAAo.png" group-title="*",Teletoon
+http://185.93.1.39/FRCH_TELE_TOON_FRENCH_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fupOqzr.jpg" group-title="*",TV5 Quebec
+http://185.93.1.39/FRCH_TV5_QUEBEC_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5ompVH.png" group-title="*",TVA Gatineau
+http://185.93.1.39/FRCH_TVA_GATINEAU_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5ompVH.png" group-title="*",TVA Montreal
+http://185.93.1.39/FRCH_TVA_MONTREAL_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5ompVH.png" group-title="*",TVA Québec
+http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m9OHwNx.png" group-title="*",TVA Sports
+http://185.93.1.39/FRCH_TVA_SPORTS_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m9OHwNx.png" group-title="*",TVA Sports 2
+http://185.93.1.39/FRCH_TVA_Sports_2_HD_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pvg8AKF.png" group-title="*",TVO
+http://185.93.1.39/FRCH_TVO_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LazYdi7.jpg" group-title="*",Unis TV
+http://185.93.1.39/FRCH_UNIS_TV_HD_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mmkXJd.png" group-title="*",Vrak
+http://185.93.1.39/FRCH_Vrak_HD_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZmU170.png" group-title="*",Yoopa
+http://185.93.1.39/FRCH_YOOPA_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/405xOtU.png" group-title="*",Z Tele
+http://185.93.1.39/FRCH_CANAL_Z_HD_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAoCnBL.png" group-title="*",Zeste
+http://185.93.1.39/FRCH_ZESTE_CA/index.m3u8
+
+
+#######
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0gmasYo.png" group-title="*",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qRZ9gXM.jpg" group-title="*",6Ter
+http://185.93.1.39/FRCH_6TER_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlWKCG5.png" group-title="*",Action
+http://185.93.1.39/FRCH_Action_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXxVvy9.png" group-title="*",Arte
+http://185.93.1.39/FRCH_ARTE_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cxSsbls.jpg" group-title="",Baby TV
+http://185.93.1.39/FRCH_Baby_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYEaq1Q.jpg" group-title="",BET
+http://185.93.1.39/FRCH_BET_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ux0gBDD.jpg" group-title="",BFMTV
+http://185.93.1.39/FRCH_BFM_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MN73rOu.png" group-title="*",BOING
+http://185.93.1.39/FRCH_Boing_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FJjZhNN.png" group-title="*",Boomrang
+http://185.93.1.39/FRCH_Boomerang_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yyVtQaC.png" group-title="",Brava (Stingray Classica)
+http://185.93.1.39/FRCH_BRAVA_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcDX9jK.jpg" group-title="*",Canal+
+http://185.93.1.39/FRCH_CANAL_J/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cUbA4Rk.jpg" group-title="*",Canal+ Decale
+http://185.93.1.39/FRCH_Cine_Plus_Club_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BcQNE0Y.png" group-title="*",Cine+ Émotion
+http://185.93.1.39/FRCH_Cine_Plus_Emotion_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SHPucgS.png" group-title="*",Cine+ Famiz
+http://185.93.1.39/FRCH_Cine_Plus_Famiz_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mWIAcJ5.png" group-title="*",Cine+ Frisson
+http://185.93.1.39/FRCH_Cine_Plus_Frisson_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2gcQu0I.png" group-title="",Cine+ PREMIER
+http://185.93.1.39/FRCH_Cine_Plus_Premier_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wTwTycJ.png" group-title="",CNEWS
+http://185.93.1.39/FRCH_C-NEWS_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="*",CStar
+http://185.93.1.39/FRCH_CSTAR_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aE23JYH.jpg" group-title="*",Discovery Channel
+http://185.93.1.39/FRCH_Discovery_Channel_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A47X57B.png" group-title="",Discovery Family
+http://185.93.1.39/FRCH_Discovery_Family_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67WRhll.png" group-title="*",Discovery Investigation
+http://185.93.1.39/FRCH_Discovery_Investigation_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MtHkNzW.png" group-title="*",Discovery Science
+http://185.93.1.39/FRCH_Discovery_Science_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JVumKHO.jpg" group-title="*",Disney Channel
+http://185.93.1.39/FRCH_Disney_Channel_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kcI2yKc.jpg" group-title="*",France 2
+http://185.93.1.39/FRCH_FRANCE_2_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ufF3QKa.jpg" group-title="*",France 3
+http://185.93.1.39/FRCH_FRANCE_3_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ND7QWJw.jpg" group-title="*",France 4
+http://185.93.1.39/FRCH_FRANCE_4_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPoAK2v.jpg" group-title="*",France 5
+http://185.93.1.39/FRCH_FRANCE_5_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/trmjNzu.png" group-title="*",Golf Channel
+http://185.93.1.39/FRCH_GOLF_CHANNEL_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="*",Gulli
+http://185.93.1.39/FRCH_GULLI_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SCDcpHf.jpg" group-title="*",Histoire TV
+http://185.93.1.39/FRCH_HISTOIRE_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="*",LCI
+http://185.93.1.39/FRCH_LCI_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNR9fl4.png" group-title="*",LCP
+http://185.93.1.39/FRCH_LCP_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zPRTLzm.png" group-title="*",MCM
+http://185.93.1.39/FRCH_MCM_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6C6tvin.png" group-title="",MTV
+http://185.93.1.39/FRCH_MTV_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1On0oM8.png" group-title="",MTV Dance
+http://185.93.1.39/FRCH_MTV_Dance_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5iSGZWI.png" group-title="",MTV Hits
+http://185.93.1.39/FRCH_MTV_Hits_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mjTKGIc.jpg" group-title="*",National Geographic
+http://185.93.1.39/FRCH_NATIONAL_GEOGRAPHIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dezu9N6.png" group-title="",National Geographic Wild
+http://185.93.1.39/FRCH_Nat_Geo_Wild_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMKGjGz.png" group-title="",Nickelodeon
+http://185.93.1.39/FRCH_Nickelodeon_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ovCXUH2.png" group-title="",Nickelodeon Junior
+http://185.93.1.39/FRCH_Nickelodeon_Junior_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A45Rq0H.png" group-title="",Nollywood TV
+http://185.93.1.39/FRCH_Nollywood_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zrhktFs.png" group-title="*",OCS Choc
+http://185.93.1.39/FRCH_Ocs_Choc_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6LsrbW.png" group-title="*",OCS City
+http://185.93.1.39/FRCH_Ocs_City_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RszOb4K.jpg" group-title="*",OCS Géants
+http://185.93.1.39/FRCH_Ocs_Geants_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLXx5N8.jpg" group-title="*",OCS Max
+http://185.93.1.39/FRCH_Ocs_Max_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fs0VLZT.png" group-title="*",Paris Premiere
+http://185.93.1.39/FRCH_PARIS_PREMIERE_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWNjR4J.jpg" group-title="",RFMTV
+http://185.93.1.39/FRCH_RFM_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xhu7eQX.jpg" group-title="*",RMC Decouverte
+http://185.93.1.39/FRCH_RMC_DECOUVERTE_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PP4tKZH.png" group-title="",RTL9
+http://185.93.1.39/FRCH_RTL9_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRRUAch.jpg" group-title="",Rouge
+http://185.93.1.39/FRCH_ROUGE_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEKieNd.png" group-title="*",TF1
+http://185.93.1.39/FRCH_TF1_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c42XkP2.jpg" group-title="*",TMC
+http://185.93.1.39/FRCH_TMC_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="*",W9
+http://185.93.1.39/FRCH_W9_HD/index.m3u8
+
+########
+
+#EXTINF:-1 tvg-logo="" group-title="*",Euro Channel = LoadSpin
+http://185.93.1.39/FRCH_EUROCHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Euronews = LoadSpin
+http://185.93.1.39/FRCH_EURONEWS_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",France Info = LoadSpin
+http://185.93.1.39/FRCH_FRANCE_INFO_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qVwKBjC.jpg" group-title="*",Gong Max = LoadSpin
+http://185.93.1.39/FRCH_Gong_Max_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kElaShj.jpg" group-title="*",Noovo MTL = Vrak
+http://185.93.1.39/FRCH_V_MONTREAL_CA/index.m3u8
