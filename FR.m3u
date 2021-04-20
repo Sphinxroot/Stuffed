@@ -38,9 +38,6 @@ http://185.93.1.39/FRCH_INVESTIGATION_CA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="*",LCN
 http://185.93.1.39/FRCH_LCN_CA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kElaShj.jpg" group-title="*",Noovo
-http://185.93.1.39/FRCH_V_MONTREAL_CA/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nB16Tfr.png" group-title="*",Prise 2
 http://185.93.1.39/FRCH_Prise2_HD_CA/index.m3u8
 
@@ -86,9 +83,6 @@ http://185.93.1.39/FRCH_TV5_QUEBEC_CA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5ompVH.png" group-title="*",TVA Gatineau
 http://185.93.1.39/FRCH_TVA_GATINEAU_CA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J5ompVH.png" group-title="*",TVA Montreal
-http://185.93.1.39/FRCH_TVA_MONTREAL_CA/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5ompVH.png" group-title="*",TVA Québec
 http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u8
 
@@ -100,9 +94,6 @@ http://185.93.1.39/FRCH_TVA_Sports_2_HD_CA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pvg8AKF.png" group-title="*",TVO
 http://185.93.1.39/FRCH_TVO_CA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LazYdi7.jpg" group-title="*",Unis TV
-http://185.93.1.39/FRCH_UNIS_TV_HD_CA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mmkXJd.png" group-title="*",Vrak
 http://185.93.1.39/FRCH_Vrak_HD_CA/index.m3u8
@@ -131,9 +122,6 @@ http://185.93.1.39/FRCH_Action_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXxVvy9.png" group-title="*",Arte
 http://185.93.1.39/FRCH_ARTE_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cxSsbls.jpg" group-title="",Baby TV
-http://185.93.1.39/FRCH_Baby_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYEaq1Q.jpg" group-title="",BET
 http://185.93.1.39/FRCH_BET_HD/index.m3u8
@@ -219,15 +207,6 @@ http://185.93.1.39/FRCH_LCP_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zPRTLzm.png" group-title="*",MCM
 http://185.93.1.39/FRCH_MCM_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6C6tvin.png" group-title="",MTV
-http://185.93.1.39/FRCH_MTV_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1On0oM8.png" group-title="",MTV Dance
-http://185.93.1.39/FRCH_MTV_Dance_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5iSGZWI.png" group-title="",MTV Hits
-http://185.93.1.39/FRCH_MTV_Hits_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjTKGIc.jpg" group-title="*",National Geographic
 http://185.93.1.39/FRCH_NATIONAL_GEOGRAPHIC/index.m3u8
 
@@ -239,9 +218,6 @@ http://185.93.1.39/FRCH_Nickelodeon_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovCXUH2.png" group-title="",Nickelodeon Junior
 http://185.93.1.39/FRCH_Nickelodeon_Junior_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A45Rq0H.png" group-title="",Nollywood TV
-http://185.93.1.39/FRCH_Nollywood_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrhktFs.png" group-title="*",OCS Choc
 http://185.93.1.39/FRCH_Ocs_Choc_HD/index.m3u8
@@ -258,17 +234,11 @@ http://185.93.1.39/FRCH_Ocs_Max_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fs0VLZT.png" group-title="*",Paris Premiere
 http://185.93.1.39/FRCH_PARIS_PREMIERE_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eWNjR4J.jpg" group-title="",RFMTV
-http://185.93.1.39/FRCH_RFM_TV_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xhu7eQX.jpg" group-title="*",RMC Decouverte
 http://185.93.1.39/FRCH_RMC_DECOUVERTE_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PP4tKZH.png" group-title="",RTL9
 http://185.93.1.39/FRCH_RTL9_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRRUAch.jpg" group-title="",Rouge
-http://185.93.1.39/FRCH_ROUGE_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AEKieNd.png" group-title="*",TF1
 http://185.93.1.39/FRCH_TF1_HD/index.m3u8
@@ -280,6 +250,12 @@ http://185.93.1.39/FRCH_TMC_HD/index.m3u8
 http://185.93.1.39/FRCH_W9_HD/index.m3u8
 
 ########
+
+#EXTINF:-1,stream instable ou non fonctionnel
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cxSsbls.jpg" group-title="",Baby TV
+http://185.93.1.39/FRCH_Baby_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="*",Euro Channel = LoadSpin
 http://185.93.1.39/FRCH_EUROCHANNEL/index.m3u8
@@ -293,5 +269,29 @@ http://185.93.1.39/FRCH_FRANCE_INFO_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qVwKBjC.jpg" group-title="*",Gong Max = LoadSpin
 http://185.93.1.39/FRCH_Gong_Max_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6C6tvin.png" group-title="",MTV
+http://185.93.1.39/FRCH_MTV_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1On0oM8.png" group-title="",MTV Dance
+http://185.93.1.39/FRCH_MTV_Dance_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5iSGZWI.png" group-title="",MTV Hits
+http://185.93.1.39/FRCH_MTV_Hits_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A45Rq0H.png" group-title="",Nollywood TV
+http://185.93.1.39/FRCH_Nollywood_TV_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kElaShj.jpg" group-title="*",Noovo MTL = Vrak
 http://185.93.1.39/FRCH_V_MONTREAL_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5ompVH.png" group-title="*",TVA Montreal
+http://185.93.1.39/FRCH_TVA_MONTREAL_CA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRRUAch.jpg" group-title="",Rouge
+http://185.93.1.39/FRCH_ROUGE_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWNjR4J.jpg" group-title="",RFMTV
+http://185.93.1.39/FRCH_RFM_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LazYdi7.jpg" group-title="*",Unis TV
+http://185.93.1.39/FRCH_UNIS_TV_HD_CA/index.m3u8
